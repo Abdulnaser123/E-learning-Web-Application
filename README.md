@@ -13,8 +13,8 @@ Django and MySQL
 ##### Add chapters to the course
 ##### Add course materials
 ##### Make assignments and assign them to students
-##### Create quizzes and assign them to students
-##### View student results
+##### Create multiple questions quizz and assign it to students
+##### View student quiz results
 ##### Chat with students
 
 ## System Features :
