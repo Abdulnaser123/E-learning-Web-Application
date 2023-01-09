@@ -55,6 +55,9 @@ Django and MySQL
 
 ![image](https://user-images.githubusercontent.com/108693961/211426509-eddb1222-b627-430d-9e36-17c26e97ddbd.png)
 ![image](https://user-images.githubusercontent.com/108693961/211426547-8859ab6f-0164-4825-b05d-d12aa21f3126.png)
+![image](https://user-images.githubusercontent.com/108693961/211426757-90c6b5e2-0f41-4256-8b6c-435bec17e879.png)
+![image](https://user-images.githubusercontent.com/108693961/211426792-73ffa9c6-488f-4dcc-9280-d352041990a2.png)
+
 ![image](https://user-images.githubusercontent.com/108693961/211426584-cc3fcae1-278a-495a-bf5b-2398661dbaf5.png)
 ![image](https://user-images.githubusercontent.com/108693961/211426610-f0109149-fa99-4f14-9a30-5d39e46ca0ec.png)
 
