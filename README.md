@@ -27,5 +27,6 @@ Django and MySQL
 ##### Receive notifications for assignments from the teacher
 ##### Take quizz with multiple choice questions
 ##### Chat with teacher
+![image](https://user-images.githubusercontent.com/108693961/211422578-94694b4e-6e49-4701-8293-9cd68050f7c6.png)
 
 
