@@ -10,16 +10,16 @@ Django and MySQL
 ## System Features :
 ### Students
 ##### Enroll in courses
-. Receive notifications for assignments from the teacher
-. Take quizz with multiple choice questions
-. Rate courses
-. Chat with teacher
-. Download course materials
+##### Receive notifications for assignments from the teacher
+##### Take quizz with multiple choice questions
+##### Rate courses
+##### Chat with teacher
+##### Download course materials
 ### Teachers
-Add courses
-Add chapters to courses
-Make assignments and assign them to students
-Create quizzes and assign them to students
-Add course materials
-View student results
-Chat with students
+##### Add courses
+##### Add chapters to courses
+##### Make assignments and assign them to students
+##### Create quizzes and assign them to students
+##### Add course materials
+##### View student results
+##### Chat with students
