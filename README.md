@@ -7,19 +7,25 @@ ReactJS library, Bootstrap, SweetAlert styles, Css3, Html5
 ### backend
 Django and MySQL
 
-## System Features :
-### Students
-##### Enroll in courses
-##### Receive notifications for assignments from the teacher
-##### Take quizz with multiple choice questions
-##### Rate courses
-##### Chat with teacher
-##### Download course materials
 ### Teachers
-##### Add courses
-##### Add chapters to courses
+##### create teacher account
+##### Add course
+##### Add chapters to the course
+##### Add course materials
 ##### Make assignments and assign them to students
 ##### Create quizzes and assign them to students
-##### Add course materials
 ##### View student results
 ##### Chat with students
+
+## System Features :
+### Students
+##### create student account
+##### Enroll in courses
+##### explore the course vedios
+##### Download course materials
+##### Rate the course
+##### Receive notifications for assignments from the teacher
+##### Take quizz with multiple choice questions
+##### Chat with teacher
+
+
