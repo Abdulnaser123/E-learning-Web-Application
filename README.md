@@ -2,12 +2,12 @@
 Welcome to edu4All system, an online platform that allows students and teachers to connect and interact with each other through courses and learning materials.
 
 This platform is built with
-## frontend
+### frontend
 ReactJS library, Bootstrap, SweetAlert styles, Css3, Html5
-## backend
+### backend
 Django and MySQL
 
-System Features :
+## System Features :
 ### Students
 Enroll in courses
 Receive notifications for assignments from the teacher
