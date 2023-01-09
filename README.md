@@ -27,8 +27,9 @@ Django and MySQL
 ##### Receive notifications for assignments from the teacher
 ##### Take quizz with multiple choice questions
 ##### Chat with teacher
+###### In the beginning, we will talk about the registration process in the system for the teacher. Here, the teacher enters all his data, including qualifications and skills.
 ![image](https://user-images.githubusercontent.com/108693961/211422578-94694b4e-6e49-4701-8293-9cd68050f7c6.png)
-
+###### The teacher will receive the account verification code to ensure the authenticity of the registration process. Note here that I used a number that can be obtained not from the mail, but from the database to enter it.
 ![image](https://user-images.githubusercontent.com/108693961/211424064-ca07b371-ef82-4cb5-bb74-bb4ab4c895dd.png)
 ![image](https://user-images.githubusercontent.com/108693961/211425614-383485f8-75b0-4f49-9ed8-91a9a6e9ffdf.png)
 ![image](https://user-images.githubusercontent.com/108693961/211425682-ac49e7a4-f631-4b7d-941f-9e5337e30b82.png)
