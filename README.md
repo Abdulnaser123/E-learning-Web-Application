@@ -9,7 +9,7 @@ Django and MySQL
 
 ## System Features :
 ### Students
-. Enroll in courses
+##### Enroll in courses
 . Receive notifications for assignments from the teacher
 . Take quizz with multiple choice questions
 . Rate courses
