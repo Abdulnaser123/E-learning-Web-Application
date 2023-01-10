@@ -50,28 +50,28 @@ Django and MySQL
 ###### Here the teacher can add a chapter for a specific course
 ![image](https://user-images.githubusercontent.com/108693961/211425747-746ef667-4018-4231-b0cc-0f7f66d44d93.png)
 
-###### In this list, all the assignments appear for all the courses, and whether they are assigned to the student or not. If they are not assigned, they can be added, and if they are assigned, the list of students who have solved this cue can be shown
+###### In this list, all the assignments appear for all the courses, and whether they are assigned to the student or not. If they are not assigned, they can be added, and if they are assigned, the list of students who have solved this short exam can be shown
 
 ![image](https://user-images.githubusercontent.com/108693961/211425779-eed9bd50-2566-4a37-acb2-63587b39a971.png)
 
-###### Here is a list of students who solved this puzzle and saw the result by the teacher. As shown, the student got a zero result because he neglected the study
+###### Here is a list of students who solved this short exam and show the result by the teacher. As shown, the student got a zero result because he neglected the study
 
 ![image](https://user-images.githubusercontent.com/108693961/211425844-37786c1b-f3a0-494d-8209-4bc5195a1727.png)
 
-###### Here, the list of materials for a specific course appears, and it is possible to delete it. Here we used the Sweet Alert as a warning before deletion.
+###### Here, the list of materials for a specific course appears, and it is possible to delete it. Here we used the SweetAlert as a warning before deletion.
 
 ![image](https://user-images.githubusercontent.com/108693961/211425884-b96d78b8-e41f-4ba2-9d13-bdc2e0f6a452.png)
 
 
-###### Here, too, the list of cues appears, but to modify it, delete it, or add a question to it, as shown
+###### Here, too, the list of show short exams, but to modify it, delete it, or add a question to it, as shown
 
 ![image](https://user-images.githubusercontent.com/108693961/211425954-f0f168b6-5483-4ea9-b981-eda30303328d.png)
 
-###### Add a question to a specific cuz and confirm it
+###### Add a question to a specific short exam and confirm it
 ![image](https://user-images.githubusercontent.com/108693961/211425979-81f13533-70a8-4cf9-8d09-488256fafc69.png)
 
 
-###### And here is the most interesting part of the project, where the possibility of correspondence between the teacher and the student is not a live correspondence, but the girls’ rule is used to add messages to each of the two parties, and it appears after reloading the page
+###### And here is the most interesting part of the project, where the possibility of correspondence between the teacher and the student is not a live correspondence
 
 ![image](https://user-images.githubusercontent.com/108693961/211426093-aac92d74-bd12-48e0-a824-0cc4e793cb95.png)
 
@@ -92,11 +92,11 @@ Django and MySQL
 
 ![image](https://user-images.githubusercontent.com/108693961/211426289-7a8f0d87-07c4-433f-b681-1bb45b84ca3e.png)
 
-###### Here, the registration process has been completed in the course, pointing to this suit alert shown at the top of the page on the right
+###### Here, the enrollment process has been completed in the course, pointing to this swetAlert shown at the top of the page on the right
 
 ![image](https://user-images.githubusercontent.com/108693961/211426340-30d8c337-63ed-4b9a-b68b-1f4ef4f09743.png)
 
-###### After the registration process in the course, you will see the phrase that you are now a subscriber, and the course can be evaluated out of 5, and a text note will be sent from the student as shown.
+###### After the enrollment process in the course, you will see the  that you are now a subscriber, and the course can be evaluated out of 5, and a text note will be sent from the student as shown.
 
 ![image](https://user-images.githubusercontent.com/108693961/211426463-a90ee2ab-bb50-4d4d-a6f0-3fee1bc56c6b.png)
 
