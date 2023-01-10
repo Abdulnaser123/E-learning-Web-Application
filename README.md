@@ -145,13 +145,9 @@ Django and MySQL
 ![image](https://user-images.githubusercontent.com/108693961/211426610-f0109149-fa99-4f14-9a30-5d39e46ca0ec.png)
 
 
-<h3>The Responsive pages of the system</h3>
-<table>
-  <tr>
-    <td>![localhost_3000_ (2)](https://user-images.githubusercontent.com/108693961/211508563-e1e05d96-994f-4adb-81e1-646230d31411.png)</td>
-      <td>![localhost_3000_teacher-dashboard (1)](https://user-images.githubusercontent.com/108693961/211508646-9078b729-3bdf-4fe0-aab5-fdc210c70e14.png)</td>
-<td>![localhost_3000_ (1)](https://user-images.githubusercontent.com/108693961/211508820-530a91e8-6fbb-42bf-8b8a-54bcfea0ec0c.png)</td>
+### The Responsive pages of the system
+![image](https://user-images.githubusercontent.com/108693961/211509570-69cbeb18-bd0b-4f34-b5e4-14baba9d8a7f.png)
+![image](https://user-images.githubusercontent.com/108693961/211509666-b5e1f803-bbe8-4502-bb13-f910cbd89a21.png)
+![image](https://user-images.githubusercontent.com/108693961/211509762-2b0a1c21-8eef-4573-ad43-b93d61508d96.png)
 
 
-  </tr>
-</table>
