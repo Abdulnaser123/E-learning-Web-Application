@@ -60,7 +60,7 @@ Django and MySQL
 
 ![image](https://user-images.githubusercontent.com/108693961/211425844-37786c1b-f3a0-494d-8209-4bc5195a1727.png)
 
-###### list of materials for a specific course appears, and it is possible to delete it. Here we used the SweetAlert as a warning before deletion.
+###### list of materials for a specific course appears, delete it. Here we used the SweetAlert as a warning before deletion.
 
 ![image](https://user-images.githubusercontent.com/108693961/211425884-b96d78b8-e41f-4ba2-9d13-bdc2e0f6a452.png)
 
@@ -73,11 +73,11 @@ Django and MySQL
 ![image](https://user-images.githubusercontent.com/108693961/211425979-81f13533-70a8-4cf9-8d09-488256fafc69.png)
 
 
-###### And here is the most interesting part of the project, where the possibility of correspondence between the teacher and the student
+###### here is the most interesting part of the project, where the chatting between the teacher and the student
 
 ![image](https://user-images.githubusercontent.com/108693961/211426093-aac92d74-bd12-48e0-a824-0cc4e793cb95.png)
 
-###### Here is the teacher's details page
+###### teacher's details page
 
 ![image](https://user-images.githubusercontent.com/108693961/211426144-f976d1d1-9b8f-4a7d-b855-f5a1212f190e.png)
 
@@ -90,7 +90,7 @@ Django and MySQL
 
 ![image](https://user-images.githubusercontent.com/108693961/211426220-583fc6d4-2bdd-47ba-b18c-4f34ad8fd3ba.png)
 
-###### Course data page. If the student is logged into his account, he can enroll to the course as shown 
+###### Course details page. If the student is logged into his account, he can enroll to the course as shown 
 
 ![image](https://user-images.githubusercontent.com/108693961/211426289-7a8f0d87-07c4-433f-b681-1bb45b84ca3e.png)
 
@@ -113,7 +113,7 @@ Django and MySQL
 ###### Statistics cards for students
 ![image](https://user-images.githubusercontent.com/108693961/211426547-8859ab6f-0164-4825-b05d-d12aa21f3126.png)
 
-###### List of courses in which the student is registered, the name of the instructor for each course appears, the quiz list related to the courses, and communication with the course instructor
+###### List of courses in which the student is enrolling them, the name of the instructor for each course appears, the quiz list related to the courses, and communication with the course instructor
 
 ![image](https://user-images.githubusercontent.com/108693961/211426757-90c6b5e2-0f41-4256-8b6c-435bec17e879.png)
 
