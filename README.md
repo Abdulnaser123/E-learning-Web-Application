@@ -2,7 +2,7 @@
 Welcome to edu4All system, an online platform that allows students and teachers to connect and interact with each other through courses and learning materials.
 
 This platform is built with
-<img src="https://bitnetinfotech.com/wp-content/uploads/2022/08/Frameworks-for-React-JS.jpg" width="200" height="100">
+<img src="https://bitnetinfotech.com/wp-content/uploads/2022/08/Frameworks-for-React-JS.jpg" width="200" >
 
 ### frontend ⚛️
 ReactJS library, Bootstrap, SweetAlert styles, Css3, Html5
