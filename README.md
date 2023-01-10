@@ -18,6 +18,7 @@ This platform is built with
 
 ### frontend ⚛️
 ReactJS library, Bootstrap, SweetAlert styles, Css3, Html5
+frontend repo: https://github.com/Abdulnaser123/E-learning-web-application-frontend.git
 ### backend 🐍
 Django and MySQL
 
