@@ -2,14 +2,14 @@
 Welcome to edu4All system, an online platform that allows students and teachers to connect and interact with each other through courses and learning materials.
 
 This platform is built with
-### frontend 🏠
+### frontend ⚛️
 ReactJS library, Bootstrap, SweetAlert styles, Css3, Html5
-### backend 💾
+### backend 🐍
 Django and MySQL
 
 ## System Features :
 
-### Teacher 🧑‍🏫
+### Teacher 👨🏻‍🏫
 ##### create teacher account
 ##### Create course
 ##### Create chapters to the course
@@ -20,7 +20,7 @@ Django and MySQL
 ##### Chatting with students
 
 
-### Student 🧑‍🎓
+### Student 👨🏻‍🎓
 ##### Create student account
 ##### Enroll in courses
 ##### Explore the course vedios
@@ -56,7 +56,7 @@ Django and MySQL
 
 ![image](https://user-images.githubusercontent.com/108693961/211425779-eed9bd50-2566-4a37-acb2-63587b39a971.png)
 
-###### list of students who solved the quiz and show the result by the teacher. As shown, the student got a zero because he neglected the study 😠
+###### list of students who solved the quiz and show the result by the teacher. As shown, the student got a zero because he is a careless person 🥴
 
 ![image](https://user-images.githubusercontent.com/108693961/211425844-37786c1b-f3a0-494d-8209-4bc5195a1727.png)
 
