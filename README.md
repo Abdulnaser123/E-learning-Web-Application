@@ -2,6 +2,7 @@
 Welcome to edu4All system, an online platform that allows students and teachers to connect and interact with each other through courses and learning materials.
 
 This platform is built with
+<div></div>
 <img src="https://pbs.twimg.com/profile_images/763061332702736385/KoK6gHzp_400x400.jpg" width="200" >
 
 ### frontend ⚛️
