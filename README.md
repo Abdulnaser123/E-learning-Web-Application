@@ -4,6 +4,12 @@ Welcome to edu4All system, an online platform that allows students and teachers 
 This platform is built with
 <div></div>
 <img src="https://pbs.twimg.com/profile_images/763061332702736385/KoK6gHzp_400x400.jpg" width="200" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png
+" width="200" >
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVkRGGjw-J0y82fwNEbLzkcmQJFPf2hiSlnOzIQUg5ko48Y--FTj0f2FXuwRBXeo13qBU&usqp=CAU" width="200" >
+<img src="https://bikeshbade.com.np/media/tutorial/dg.png" width="200" >
+<img src="https://itbox.id/wp-content/uploads/2022/10/MySQL-Logo.jpeg" width="200" >
+
 
 ### frontend ⚛️
 ReactJS library, Bootstrap, SweetAlert styles, Css3, Html5
