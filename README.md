@@ -52,7 +52,7 @@ Django and MySQL
 ###### teacher can add a chapter for a specific course
 ![image](https://user-images.githubusercontent.com/108693961/211425747-746ef667-4018-4231-b0cc-0f7f66d44d93.png)
 
-###### In this list, all the assignments appear for all the courses, and whether they are assigned to the course or not. If they are not assigned, they can be assigned, and if they are assigned, the list of students who have solved this short exam can be shown
+###### In this list, all quizzes appear for all the courses, and whether they are assigned to the course or not. If they are not assigned, they can be assigned, and if they are assigned, the list of students who have solved this short exam can be shown
 
 ![image](https://user-images.githubusercontent.com/108693961/211425779-eed9bd50-2566-4a37-acb2-63587b39a971.png)
 
@@ -65,7 +65,7 @@ Django and MySQL
 ![image](https://user-images.githubusercontent.com/108693961/211425884-b96d78b8-e41f-4ba2-9d13-bdc2e0f6a452.png)
 
 
-###### the list of show quizzes, but to modify it, delete it, or add a question to it, as shown
+###### the list of quizzes, but to modify it, delete it, or add a question to it, as shown
 
 ![image](https://user-images.githubusercontent.com/108693961/211425954-f0f168b6-5483-4ea9-b981-eda30303328d.png)
 
