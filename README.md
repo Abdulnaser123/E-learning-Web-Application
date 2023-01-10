@@ -7,7 +7,7 @@ This platform is built with
   <tr>
     <td><img src="https://pbs.twimg.com/profile_images/763061332702736385/KoK6gHzp_400x400.jpg" width="200" ></td>
       <td><img src="https://static.javatpoint.com/bootstrappages/images/bootstrap-tutorial.png" width="200" ></td>
-<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVkRGGjw-J0y82fwNEbLzkcmQJFPf2hiSlnOzIQUg5ko48Y--FTj0f2FXuwRBXeo13qBU&usqp=CAU" width="200" ></td>
+<td><img src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" width="200" ></td>
 <td><img src="https://bikeshbade.com.np/media/tutorial/dg.png" width="280" ></td>
 <td><img src="https://itbox.id/wp-content/uploads/2022/10/MySQL-Logo.jpeg" width="280" ></td>
 
