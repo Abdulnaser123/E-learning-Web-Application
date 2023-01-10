@@ -7,6 +7,8 @@ ReactJS library, Bootstrap, SweetAlert styles, Css3, Html5
 ### backend
 Django and MySQL
 
+## System Features :
+
 ### Teachers
 ##### create teacher account
 ##### Add course
@@ -17,7 +19,7 @@ Django and MySQL
 ##### View student quiz results
 ##### Chat with students
 
-## System Features :
+
 ### Students
 ##### create student account
 ##### Enroll in courses
