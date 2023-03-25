@@ -9,7 +9,7 @@ This platform is built with
       <td><img src="https://static.javatpoint.com/bootstrappages/images/bootstrap-tutorial.png" width="200" ></td>
 <td><img src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" width="200" ></td>
 <td><img src="https://bikeshbade.com.np/media/tutorial/dg.png" width="280" ></td>
-<td><img src="https://www.nav.ro/blog/wp-content/uploads/2019/09/1_WzqoTtRUpmJR26dzlKdIwg.png" width="280" ></td>
+<td><img src="https://www.nav.ro/blog/wp-content/uploads/2019/09/1_WzqoTtRUpmJR26dzlKdIwg.png" width="200" ></td>
 
   </tr>
 </table>
